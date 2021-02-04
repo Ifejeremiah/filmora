@@ -191,3 +191,13 @@
         font-size: 2em;
     }
 }
+
+@media(max-width: 400px){
+    .menu {
+        width: 200px;
+    }
+
+    .showcase.active {
+        right: 200px;
+    }
+}
